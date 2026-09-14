@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2026-09-08 21:42:42.334835)
+# Last update: Unknown (assuming now: 2026-09-14 22:21:49.020221)
 
-last_update: '2026-09-08T21:42:42.334835'
+last_update: '2026-09-14T22:21:49.020221'
 list:
   acp:
     acronym: ACP
@@ -483,7 +483,7 @@ list:
     year: P
   diss-dsti-dl:
     acronym: DISS-DSTI-DL
-    course_url: https://course.inf.ed.ac.uk/diss-dsti-dl
+    course_url: null
     credits: 60
     cw_exam_ratio:
     - 100
@@ -602,7 +602,7 @@ list:
     year: '4'
   hw-asr:
     acronym: HW-ASR
-    course_url: https://course.inf.ed.ac.uk/hw-asr
+    course_url: null
     credits: 30
     cw_exam_ratio:
     - 100
@@ -619,7 +619,7 @@ list:
     year: P
   hw-tc1:
     acronym: HW-TC1
-    course_url: https://course.inf.ed.ac.uk/hw-tc1
+    course_url: null
     credits: 15
     cw_exam_ratio:
     - 100
@@ -636,7 +636,7 @@ list:
     year: P
   hw-tc2:
     acronym: HW-TC2
-    course_url: https://course.inf.ed.ac.uk/hw-tc2
+    course_url: null
     credits: 15
     cw_exam_ratio:
     - 100
@@ -653,7 +653,7 @@ list:
     year: P
   i-bair:
     acronym: I-BAIR
-    course_url: https://course.inf.ed.ac.uk/i-bair
+    course_url: null
     credits: 40
     cw_exam_ratio:
     - 100
@@ -942,7 +942,7 @@ list:
     year: P
   ipp20-dl:
     acronym: IPP20-DL
-    course_url: https://course.inf.ed.ac.uk/ipp20-dl
+    course_url: null
     credits: 20
     cw_exam_ratio:
     - 100
@@ -1197,7 +1197,7 @@ list:
     year: '3'
   nlp-aip:
     acronym: NLP-AIP
-    course_url: https://course.inf.ed.ac.uk/nlp-aip
+    course_url: null
     credits: 20
     cw_exam_ratio:
     - 100
@@ -1231,7 +1231,7 @@ list:
     year: P
   nlp-iep:
     acronym: NLP-IEP
-    course_url: https://course.inf.ed.ac.uk/nlp-iep
+    course_url: null
     credits: 60
     cw_exam_ratio:
     - 100
@@ -1316,7 +1316,7 @@ list:
     year: '4'
   pdp:
     acronym: PDP
-    course_url: https://course.inf.ed.ac.uk/pdp
+    course_url: null
     credits: 60
     cw_exam_ratio:
     - 100
@@ -1435,7 +1435,7 @@ list:
     year: '4'
   qigp:
     acronym: QIGP
-    course_url: https://course.inf.ed.ac.uk/qigp
+    course_url: null
     credits: 20
     cw_exam_ratio:
     - 100
@@ -1452,7 +1452,7 @@ list:
     year: P
   qiip:
     acronym: QIIP
-    course_url: https://course.inf.ed.ac.uk/qiip
+    course_url: null
     credits: 60
     cw_exam_ratio:
     - 100
@@ -1469,7 +1469,7 @@ list:
     year: P
   qipo:
     acronym: QIPO
-    course_url: https://course.inf.ed.ac.uk/qipo
+    course_url: null
     credits: 20
     cw_exam_ratio:
     - 100
@@ -1722,4 +1722,55 @@ list:
     level: 11
     name: Usable Security and Privacy
     year: P
+  z-ass:
+    acronym: Z-ASS
+    course_url: https://course.inf.ed.ac.uk/z-ass
+    credits: 10
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: YR
+    delivery_ordinal: 3
+    diet: None
+    euclid_code: INFR99001
+    euclid_code_shadow: null
+    euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr99001.htm
+    euclid_url_shadow: null
+    level: 7
+    name: Assessment project
+    year: '1'
+  z-dev:
+    acronym: Z-DEV
+    course_url: https://course.inf.ed.ac.uk/z-dev
+    credits: 10
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: SEM1
+    delivery_ordinal: 1
+    diet: None
+    euclid_code: INFR99003
+    euclid_code_shadow: null
+    euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr99003.htm
+    euclid_url_shadow: null
+    level: 7
+    name: Course Development
+    year: '1'
+  z-soc:
+    acronym: Z-SOC
+    course_url: https://course.inf.ed.ac.uk/z-soc
+    credits: 10
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: YR
+    delivery_ordinal: 3
+    diet: None
+    euclid_code: TEMP03042
+    euclid_code_shadow: null
+    euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxtemp03042.htm
+    euclid_url_shadow: null
+    level: 7
+    name: Societies
+    year: '1'
 session: 2026-27
