@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2026-09-14 22:21:49.020221)
+# Last update: Unknown (assuming now: 2026-09-15 22:00:05.066948)
 
-last_update: '2026-09-14T22:21:49.020221'
+last_update: '2026-09-15T22:00:05.066948'
 list:
   acp:
     acronym: ACP
@@ -908,7 +908,7 @@ list:
     year: '2'
   ipp-dl:
     acronym: IPP-DL
-    course_url: https://course.inf.ed.ac.uk/ipp-dl
+    course_url: null
     credits: 10
     cw_exam_ratio:
     - 100
@@ -1112,7 +1112,7 @@ list:
     year: '4'
   mlsir:
     acronym: MLSIR
-    course_url: https://course.inf.ed.ac.uk/mlsir
+    course_url: null
     credits: 40
     cw_exam_ratio:
     - 100
@@ -1129,7 +1129,7 @@ list:
     year: P
   mlsp100:
     acronym: MLSP100
-    course_url: https://course.inf.ed.ac.uk/mlsp100
+    course_url: null
     credits: 100
     cw_exam_ratio:
     - 100
@@ -1146,7 +1146,7 @@ list:
     year: P
   mlsp60:
     acronym: MLSP60
-    course_url: https://course.inf.ed.ac.uk/mlsp60
+    course_url: null
     credits: 60
     cw_exam_ratio:
     - 100
@@ -1163,7 +1163,7 @@ list:
     year: P
   mlsp80:
     acronym: MLSP80
-    course_url: https://course.inf.ed.ac.uk/mlsp80
+    course_url: null
     credits: 80
     cw_exam_ratio:
     - 100
@@ -1520,7 +1520,7 @@ list:
     year: P
   sdd-aibi-1:
     acronym: SDD-AIBI-1
-    course_url: https://course.inf.ed.ac.uk/sdd-aibi-1
+    course_url: null
     credits: 20
     cw_exam_ratio:
     - 100
@@ -1537,7 +1537,7 @@ list:
     year: P
   sdd-aibi-2:
     acronym: SDD-AIBI-2
-    course_url: https://course.inf.ed.ac.uk/sdd-aibi-2
+    course_url: null
     credits: 20
     cw_exam_ratio:
     - 100
@@ -1554,7 +1554,7 @@ list:
     year: P
   sdd-aibi-3:
     acronym: SDD-AIBI-3
-    course_url: https://course.inf.ed.ac.uk/sdd-aibi-3
+    course_url: null
     credits: 20
     cw_exam_ratio:
     - 100
@@ -1571,7 +1571,7 @@ list:
     year: P
   sdp:
     acronym: SDP
-    course_url: https://course.inf.ed.ac.uk/sdp
+    course_url: null
     credits: 20
     cw_exam_ratio:
     - 100
@@ -1722,55 +1722,4 @@ list:
     level: 11
     name: Usable Security and Privacy
     year: P
-  z-ass:
-    acronym: Z-ASS
-    course_url: https://course.inf.ed.ac.uk/z-ass
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: YR
-    delivery_ordinal: 3
-    diet: None
-    euclid_code: INFR99001
-    euclid_code_shadow: null
-    euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr99001.htm
-    euclid_url_shadow: null
-    level: 7
-    name: Assessment project
-    year: '1'
-  z-dev:
-    acronym: Z-DEV
-    course_url: https://course.inf.ed.ac.uk/z-dev
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: SEM1
-    delivery_ordinal: 1
-    diet: None
-    euclid_code: INFR99003
-    euclid_code_shadow: null
-    euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr99003.htm
-    euclid_url_shadow: null
-    level: 7
-    name: Course Development
-    year: '1'
-  z-soc:
-    acronym: Z-SOC
-    course_url: https://course.inf.ed.ac.uk/z-soc
-    credits: 10
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: YR
-    delivery_ordinal: 3
-    diet: None
-    euclid_code: TEMP03042
-    euclid_code_shadow: null
-    euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxtemp03042.htm
-    euclid_url_shadow: null
-    level: 7
-    name: Societies
-    year: '1'
 session: 2026-27
