@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2026-09-15 22:00:05.066948)
+# Last update: Unknown (assuming now: 2026-09-17 22:00:03.254131)
 
-last_update: '2026-09-15T22:00:05.066948'
+last_update: '2026-09-17T22:00:03.254131'
 list:
   acp:
     acronym: ACP
@@ -769,23 +769,6 @@ list:
     euclid_url_shadow: null
     level: 8
     name: Informatics 1 - Cognitive Science
-    year: '1'
-  inf1-crisp:
-    acronym: INF1-CRISP
-    course_url: https://course.inf.ed.ac.uk/inf1-crisp
-    credits: 20
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: SEM1
-    delivery_ordinal: 1
-    diet: None
-    euclid_code: INFR07003
-    euclid_code_shadow: null
-    euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr07003.htm
-    euclid_url_shadow: null
-    level: 7
-    name: Informatics 1 - Critical Skills and Practice
     year: '1'
   inf1-fc:
     acronym: INF1-FC
@@ -1569,23 +1552,6 @@ list:
     level: 11
     name: Self-Directed Development in AI for Biomedical Innovation (Year 3)
     year: P
-  sdp:
-    acronym: SDP
-    course_url: null
-    credits: 20
-    cw_exam_ratio:
-    - 100
-    - 0
-    delivery: SEM2
-    delivery_ordinal: 2
-    diet: None
-    euclid_code: INFR09032
-    euclid_code_shadow: null
-    euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr09032.htm
-    euclid_url_shadow: null
-    level: 9
-    name: System Design Project
-    year: '3'
   seng:
     acronym: SENG
     course_url: https://course.inf.ed.ac.uk/seng
