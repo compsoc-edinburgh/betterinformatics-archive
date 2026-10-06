@@ -1,9 +1,9 @@
 # This document was automatically generated
 # using data from http://course.inf.ed.ac.uk
 #
-# Last update: Unknown (assuming now: 2026-09-21 22:31:22.474952)
+# Last update: Unknown (assuming now: 2026-10-06 00:41:12.364289)
 
-last_update: '2026-09-21T22:31:22.474952'
+last_update: '2026-10-06T00:41:12.364289'
 list:
   acp:
     acronym: ACP
@@ -719,6 +719,23 @@ list:
     level: 10
     name: Informatics Experiential Learning (Level 10)
     year: '3'
+  iii:
+    acronym: III
+    course_url: https://course.inf.ed.ac.uk/iii
+    credits: 60
+    cw_exam_ratio:
+    - 100
+    - 0
+    delivery: SB5+
+    delivery_ordinal: 4
+    diet: None
+    euclid_code: INFR11307
+    euclid_code_shadow: null
+    euclid_url: http://www.drps.ed.ac.uk/26-27/dpt/cxinfr11307.htm
+    euclid_url_shadow: null
+    level: 11
+    name: Internships in Informatics
+    year: P
   ilp:
     acronym: ILP
     course_url: https://course.inf.ed.ac.uk/ilp
